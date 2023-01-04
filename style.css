@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(108, 91, 126);
+    text-align: center;
+}
+
+img {
+    width: 500px;
+}
+
+.changetext {
+    background-color: rgb(59, 52, 151);
+    margin: 0 auto;
+    padding: 50px;
+    margin-bottom: 25px;
+}
